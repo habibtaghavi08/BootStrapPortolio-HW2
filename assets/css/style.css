@@ -1,0 +1,28 @@
+img{ width:20%}
+
+h1{background-color: lightslategrey;}
+
+
+h2{color:teal
+}
+
+h3{
+    color:teal
+
+}
+
+.nav-item {color:darkred;}
+
+ 
+    
+.nav-item{color:darkred}
+ 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: teal;
+    color: white;
+    text-align: center;
+ }
