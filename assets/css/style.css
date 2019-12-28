@@ -13,7 +13,10 @@ h3{
 
 .nav-item {color:darkred;}
 
- 
+ .image{
+     width: 100%;
+     height:50vh;
+ }
     
 .nav-item{color:darkred}
  
